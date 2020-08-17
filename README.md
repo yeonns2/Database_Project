@@ -9,7 +9,7 @@
 ### 프로젝트 언어 및 환경
 - 서버 : apache
 - DB : mysql
-- 언어 : php,css3,html
+- 언어 : php,css3,javascript
 
 ### 주요 기능
 - 혈액형 별 혈액 현황을 자동으로 업데이트 하는 기능
