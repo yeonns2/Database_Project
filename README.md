@@ -32,5 +32,7 @@
  10. donor는 헌혈을 여러 번 할 수 있고 헌혈을 하면 id, donor_id, blood_id, donationdate 정보를 유지해야 한다.
  
 ### 시스템 구성도
+<img width="500" alt="스크린샷 2020-08-17 오후 7 56 43" src="https://user-images.githubusercontent.com/46320067/90389093-e006ad80-e0c3-11ea-88af-03ed264eee55.png">
 
 ### ER다이어그램
+<img width="581" alt="스크린샷 2020-08-17 오후 7 56 51" src="https://user-images.githubusercontent.com/46320067/90389120-f1e85080-e0c3-11ea-9240-ed939c2260cf.png">
